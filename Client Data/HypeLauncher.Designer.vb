@@ -63,7 +63,7 @@ Partial Class Form1
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
         Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
-        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Name = "HypePicture2"
         Me.PictureBox1.Size = New System.Drawing.Size(686, 214)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
         Me.PictureBox1.TabIndex = 2
@@ -74,7 +74,7 @@ Partial Class Form1
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
         Me.PictureBox2.Location = New System.Drawing.Point(265, 242)
-        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Name = "HypePicture"
         Me.PictureBox2.Size = New System.Drawing.Size(637, 159)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox2.TabIndex = 3
@@ -97,7 +97,7 @@ Partial Class Form1
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Magneto", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(255, 190)
-        Me.Label1.Name = "Label1"
+        Me.Label1.Name = "Credits"
         Me.Label1.Size = New System.Drawing.Size(246, 58)
         Me.Label1.TabIndex = 5
         Me.Label1.Text = "Made by"
@@ -115,7 +115,7 @@ Partial Class Form1
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Button2)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
-        Me.Name = "Form1"
+        Me.Name = "HypeClient"
         Me.Text = "HypeClient"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
