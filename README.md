@@ -1,5 +1,5 @@
 # HypeClient
-#     The Github for HypeClient by Mediblade
+#     Please Read this before any distrubations or concerns.
 
 # Any Distrubuation not made my Mediblade or Tqco_Tuesdqy is not valid. 
 # If a one has any problems or concerns they may contact Mediblade using Discord: Vixel#1047
