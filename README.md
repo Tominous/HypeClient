@@ -7,4 +7,4 @@
 # As this already says to contact me. 
 # I have gotten a warning even though this is fully user friendly and no Extreme Disrespect.
 # This is why contact me before staff as staff gets to conclusion fast without any evidence.
-# I have rechecked my codes and files to my concern that there is no invalid/disrespectful file.
+# I have rechecked my codes and files to my conclusion that there is no invalid/disrespectful file.
